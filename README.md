@@ -20,7 +20,9 @@ Since the existing templates from d3.js wasn't really that pretty, I switched to
 
 ## To run the code:
 
-https://observablehq.com/@amritha16/contact-network@1423
+Download the files and run automate.sh which runs the preprocessingForR.py, getPositions.R and toJSON.py one by one to generate the JSON file.
+
+https://observablehq.com/@amritha16/contact-network
 
 View this notebook in your browser by running a web server in this folder. For
 example:
